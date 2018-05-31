@@ -11,6 +11,7 @@ class CashRegiser
     @total 
   end 
   
+  def add_item
   
   
   
