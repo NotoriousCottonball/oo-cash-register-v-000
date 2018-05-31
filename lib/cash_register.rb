@@ -14,6 +14,7 @@ class CashRegiser
   def add_item(item, price, quantity = 1)
     
     
+    
   
   
   
